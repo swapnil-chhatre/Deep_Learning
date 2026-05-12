@@ -3,4 +3,6 @@ student_25675238/
 augmented_samples/
 data_files/
 student_25675238.zip
-Assignment_2/results_and_models/baseline_weights/
+Assignment_2/results_and_models/baseline_vgg_weights/
+Assignment_2/results_and_models/baseline_resnet_weights/
+Assignment_2/results_and_models/rcnn_training/
